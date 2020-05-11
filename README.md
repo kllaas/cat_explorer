@@ -2,6 +2,14 @@
 
 App that shows cats usung Flutter and the [TheCatAPI](https://thecatapi.com/).
 
+### App with light theme
+
+<img width="400" src="https://github.com/kllaas/cat_explorer/blob/master/screenshots/app_light.png">
+
+### App with night theme
+
+<img width="400" src="https://github.com/kllaas/cat_explorer/blob/master/screenshots/app_dark.png">
+
 ## License
 
 MIT License
